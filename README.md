@@ -1,1 +1,1 @@
-# sales_dashboard_sql
+# sales_project_sql
